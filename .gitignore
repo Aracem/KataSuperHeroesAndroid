@@ -5,3 +5,22 @@
 /captures
 **.iml
 /.idea
+
+# Android Studio
+# Intellij IDEA (see https://intellij-support.jetbrains.com/entries/23393067)
+.idea/
+.gradle
+.gradle/
+*.iml
+captures/
+
+# Older project format
+/*/out
+/*/*/build
+*.iws
+*.ipr
+/*.iml
+*~
+~*
+*.swp
+*.log
